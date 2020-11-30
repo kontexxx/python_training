@@ -8,7 +8,6 @@ jarjekord = ["teadmata järjekorranumbriga", "esimesena", "teisena", "kolmandana
              "kahekümnendana", "kahekümne esimesena", "kahekümne teisena", "kahekümne kolmandana",
              "kahekümne neljandana", "kahekümne viiendana", "kahekümne kuuendana", "kahekümne seitsmendana",
              "kahekümne kaheksandana", "kahekümne üheksandana", "kolmekümnendana"]
-
 kuressaare = 0
 tartu = 10
 idaTallinn = 20
@@ -131,4 +130,3 @@ if len(isikukood) == 11:
         print("Ebakorrektne kontrollkoodi väärtus. Proovi uuesti!")
 else:  # Kui pikkuse kontroll nurjub - veateade..
     print("Ebakorrektne sisend. Proovi uuesti!")
-
